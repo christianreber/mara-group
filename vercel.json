@@ -1,0 +1,10 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/", "destination": "/index.html" },
+    { "source": "/properties", "destination": "/properties.html" },
+    { "source": "/sell", "destination": "/sell.html" },
+    { "source": "/houses/colonia-sant-pere", "destination": "/houses/colonia-sant-pere.html" },
+    { "source": "/houses/belavent", "destination": "/houses/belavent.html" }
+  ]
+}
